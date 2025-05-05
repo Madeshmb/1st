@@ -1,0 +1,7 @@
+print("First Oneeee")
+print("Hiiii")
+print("byeeee")
+print("Hahaha.....")
+print("Hehehe.......")
+print("lalalalaaaaa")
+print("hero")
